@@ -38,7 +38,7 @@ I am interested in solving real world problems using computer vision and machine
 ## Former Interns
 * [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), 2017.
 * Jianan Li, 2017.
-* [Rameswar Panda] (https://rpand002.github.io/), 2017.
+* [Rameswar Panda](https://rpand002.github.io/), 2017.
 * [Wei-Chih (Wayne) Hung](https://hfslyc.github.io/), 2017.
 * [Zijun Wei](http://www.zijunwei.org/), 2017.
 
