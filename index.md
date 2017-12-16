@@ -4,7 +4,7 @@
 
 |         |           |   |
 |:-------------|:------------------|:------|
-| ok           | good <br> swedish fish | nice  |
+| ok           | I am interested in solving real world problems using computer vision and machine learning. At Adobe, I work on research and tech transfer projects related to deep learning, image processing and intelligent systems. Before joining Adobe, I studied computer vision with [Prof. Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/) at Boston University and got my PhD in 2016. <br> [[CV](https://www.dropbox.com/s/cnfsykaoi2p4qa5/CV_JianmingZhang.pdf?dl=0)] | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
