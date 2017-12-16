@@ -17,7 +17,7 @@ I am interested in solving real world problems using computer vision and machine
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
-* Filip Malmberg, Robin Strand, Jianming Zhang, Stan Sclaroff. "The Boolean Map Distance: Theory and Efficient Computation". In _Proc. International Conference on Discrete Geometry for Computer Imagery (DGCI)_, 2017. [[Pub](https://link.springer.com/chapter/10.1007/978-3-319-66272-5_27)]
+* Filip Malmberg, Robin Strand, __Jianming Zhang__, Stan Sclaroff. "The Boolean Map Distance: Theory and Efficient Computation". In _Proc. International Conference on Discrete Geometry for Computer Imagery (DGCI)_, 2017. [[Pub](https://link.springer.com/chapter/10.1007/978-3-319-66272-5_27)]
 * Vasili Ramanishka, Abir Das, __Jianming Zhang__, Kate Saenko. "Top-down Visual Saliency Guided by Captions".  In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2017. [[PDF](https://arxiv.org/pdf/1612.07360.pdf)] [[Project Page](http://ai.bu.edu/caption-guided-saliency/)]
 * __Jianming Zhang__, Zhe Lin, Jonathan Brandt, Xiaohui Shen, Stan Sclaroff. "Top-down Neural Attention by Excitation Backprop". In _Proc. European Conference on Computer Vision (ECCV)_, 2016. (__oral__) [[PDF](http://cs-people.bu.edu/jmzhang/EB/ExcitationBackprop.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/EB/ExcitationBackprop-supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/excitationbp.html)]
 * __Jianming Zhang__, Stan Sclaroff, Zhe Lin, Xiaohui Shen, Brian Price and Radomír Měch. "Unconstrained Salient Object Detection via Proposal Subset Optimization". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2016. (__spotlight__) [[PDF](http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOD/supp_camera_ready.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/sod.html)]
@@ -29,6 +29,11 @@ I am interested in solving real world problems using computer vision and machine
 * __Jianming Zhang__, Liliana  Lo Presti and Stan Sclaroff, "Online Multi-Person Tracking by Tracker Hierarchy". In _Proc. IEEE Conference on Advanced Video and Signal Based Surveillance (AVSS)_, 2012. [[PDF](http://www.cs.bu.edu/groups/ivc/software/TrackerHierarchy/AVSS2012_TrackerHierarchy.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/tracker_hierarchy/Tracker_Hierarchy.htm)]
 
 ### Patents
+* Accurate Tag Relevance Prediction for Image Search ([Pending](https://www.google.com/patents/US20170236055), International)
+* Image Zooming ([US 9805445](https://www.google.com/patents/US9805445))
+* Image Cropping Suggestion Using Multiple Saliency Maps ([US 9626584](https://www.google.com/patents/US9626584))
+* Saliency Map Computation ([US 9454712](https://www.google.com/patents/US9454712))
+
 
 ## Former Interns
 
