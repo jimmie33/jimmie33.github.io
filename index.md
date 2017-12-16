@@ -2,7 +2,7 @@
 | ------ | :------ |
 
 
-| head1        | head two          | three |
+|         |           |   |
 |:-------------|:------------------|:------|
 | ok           | good <br> swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
