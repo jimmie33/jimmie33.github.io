@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Jianming Zhang
 description: Research Scientist at Adobe Research
+html_show_sourcelink = False
