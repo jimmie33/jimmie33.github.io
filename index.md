@@ -1,14 +1,17 @@
 ![](img/image002.jpg)  
   
 I am interested in solving real world problems using computer vision and machine learning. At Adobe, I work on research and tech transfer projects related to deep learning, image processing and intelligent systems. Before joining Adobe, I studied computer vision with [Prof. Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/) at Boston University and got my PhD in 2016.  
-[[CV](https://www.dropbox.com/s/cnfsykaoi2p4qa5/CV_JianmingZhang.pdf?dl=0)]  [[Google Scholar](https://scholar.google.com/citations?user=TkVHKDgAAAAJ&hl=en)]  [[LinkedIn](www.linkedin.com/in/jianming-zhang-60762227)]  [[PhD Thesis on Saliency Computation](https://www.dropbox.com/s/m9557mlql5e643h/thesis_final.pdf?dl=0)]  
-Contact: _jianmzha AT adobe.com_  
+[[CV](https://www.dropbox.com/s/cnfsykaoi2p4qa5/CV_JianmingZhang.pdf?dl=0)]  [[Google Scholar](https://scholar.google.com/citations?user=TkVHKDgAAAAJ&hl=en)]  [[LinkedIn](www.linkedin.com/in/jianming-zhang-60762227)] [[My Old Website](http://cs-people.bu.edu/jmzhang/)]
+Contact: _jianmzha AT adobe.com_, _jimmie33 AT gmail.com__  
 
 -------
 ## News
 * [12/16/2017] The journal version of our Excitation Backprop work is accepted at IJCV.
 
 ## Selected Publications
+
+### PhD Thesis
+* Visual Saliency Computation for Image Analysis. Boston University, 2016. [[PDF](https://www.dropbox.com/s/m9557mlql5e643h/thesis_final.pdf?dl=0)]
 
 ### Journals
 * __Jianming Zhang__, Sarah Adel Bargal, Zhe Lin, Xiaohui Shen, Jonathan Brandt, Stan Sclaroff.  "Top-down Neural Attention by Excitation Backprop". _International Journal of Computer Vision (IJCV)_, 2018.
@@ -39,6 +42,7 @@ Contact: _jianmzha AT adobe.com_
 ## Former Interns
 * [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), 2017.
 * Jianan Li, 2017.
+* [Zhe Wang](http://wangzheallen.github.io/), 2017.
 * [Rameswar Panda](https://rpand002.github.io/), 2017.
 * [Wei-Chih (Wayne) Hung](https://hfslyc.github.io/), 2017.
 * [Zijun Wei](http://www.zijunwei.org/), 2017.
