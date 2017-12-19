@@ -33,6 +33,7 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__, Liliana  Lo Presti and Stan Sclaroff, "Online Multi-Person Tracking by Tracker Hierarchy". In _Proc. IEEE Conference on Advanced Video and Signal Based Surveillance (AVSS)_, 2012. [[PDF](http://www.cs.bu.edu/groups/ivc/software/TrackerHierarchy/AVSS2012_TrackerHierarchy.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/tracker_hierarchy/Tracker_Hierarchy.htm)]
 
 ### Patents
+* Semantic Class Localization in Images (US 9846840)
 * Accurate Tag Relevance Prediction for Image Search ([Pending](https://www.google.com/patents/US20170236055), International)
 * Image Zooming ([US 9805445](https://www.google.com/patents/US9805445))
 * Image Cropping Suggestion Using Multiple Saliency Maps ([US 9626584](https://www.google.com/patents/US9626584))
