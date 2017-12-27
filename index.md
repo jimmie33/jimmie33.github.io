@@ -39,6 +39,12 @@ Contact: _jianmzha AT adobe.com_
 * Image Cropping Suggestion Using Multiple Saliency Maps ([US 9626584](https://www.google.com/patents/US9626584))
 * Saliency Map Computation ([US 9454712](https://www.google.com/patents/US9454712))
 
+## Tech Transfer Highlights
+
+![](img/pse.jpg) 
+* __Auto Selecteion__ in Photoshop Elements 2018. Deep learning based interactive image segmentation. [Youtube](https://www.youtube.com/watch?v=kXUW1Z_f5Ug)
+
+
 
 ## Former Interns
 * [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), 2017.
