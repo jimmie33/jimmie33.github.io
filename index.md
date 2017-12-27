@@ -41,7 +41,7 @@ Contact: _jianmzha AT adobe.com_
 
 ## Tech Transfer Highlights
 
-![](img/pse.jpg) 
+![](img/adobe-photoshop-elemnents-18.jpg) 
 * __Auto Selecteion__ in Photoshop Elements 2018. Deep learning based interactive image segmentation. [Youtube](https://www.youtube.com/watch?v=kXUW1Z_f5Ug)
 
 
