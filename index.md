@@ -41,9 +41,11 @@ Contact: _jianmzha AT adobe.com_
 
 ## Tech Transfer Highlights
 
-![](img/adobe-photoshop-elemnents-18.jpg) 
-* __Auto Selection__ in Photoshop Elements 2018. Deep learning based interactive image segmentation. [Youtube](https://www.youtube.com/watch?v=kXUW1Z_f5Ug)
+![](img/select-subject.jpg) 
+* __Select Subject__ in Photoshop CC 2018. Deep learning based salient object detection. [Youtube](https://youtu.be/x-9qYLr15tU)
 
+![](img/adobe-photoshop-elemnents-18.jpg) 
+* __Auto Selection__ in Photoshop Elements 2018. Deep learning based interactive image segmentation. [Youtube](https://youtu.be/kXUW1Z_f5Ug)
 
 ## Former Interns
 * [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), 2017.
