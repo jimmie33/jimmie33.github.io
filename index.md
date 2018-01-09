@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [01/09/2018] Our paper on object segmentation ambiguity is accepted at IJCV. [[arXiv](https://arxiv.org/abs/1705.00366)]
 * [12/16/2017] The journal version of our Excitation Backprop work is accepted at IJCV.
 
 ## Selected Publications
@@ -14,6 +15,7 @@ Contact: _jianmzha AT adobe.com_
 * Visual Saliency Computation for Image Analysis. Boston University, 2016. [[PDF](https://www.dropbox.com/s/m9557mlql5e643h/thesis_final.pdf?dl=0)]  
 
 ### Journals
+* Danna Gurari, Kun He, Bo Xiong, __Jianming Zhang__, Mehrnoosh Sameki, Suyog Dutt Jain, Stan Sclaroff, Margrit Betke, Kristen Grauman. "Predicting Foreground Object Ambiguity and Efficiently Crowdsourcing the Segmentation (s)". _International Journal of Computer Vision (IJCV)_, 2018. [[arXiv](https://arxiv.org/abs/1705.00366)]
 * __Jianming Zhang__, Sarah Adel Bargal, Zhe Lin, Xiaohui Shen, Jonathan Brandt, Stan Sclaroff.  "Top-down Neural Attention by Excitation Backprop". _International Journal of Computer Vision (IJCV)_, 2018. [[Pub](https://link.springer.com/article/10.1007/s11263-017-1059-x)] [[Project Page](http://cs-people.bu.edu/jmzhang/excitationbp.html)]
 * __Jianming Zhang__, Shugao Ma, Mehrnoosh Sameki, Stan Sclaroff, Margrit Betke, Zhe Lin, Xiaohui Shen, Brian Price and Radomír Měch.  "Salient Object Subitizing". _International Journal of Computer Vision (IJCV)_, 2017. [[Pub](https://link.springer.com/article/10.1007%2Fs11263-017-1011-0)] [[Project Page](http://cs-people.bu.edu/jmzhang/sos.html)]
 * Shugao Ma , __Jianming Zhang__, Leonid Sigal, Nazli Ikizler-Cinbis and Stan Sclaroff. "Space-Time Tree Ensemble for Action Recognition". _International Journal of Computer Vision (IJCV)_, 2017. [[Pub](https://link.springer.com/article/10.1007/s11263-016-0980-8)]
@@ -33,7 +35,8 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__, Liliana  Lo Presti and Stan Sclaroff, "Online Multi-Person Tracking by Tracker Hierarchy". In _Proc. IEEE Conference on Advanced Video and Signal Based Surveillance (AVSS)_, 2012. [[PDF](http://www.cs.bu.edu/groups/ivc/software/TrackerHierarchy/AVSS2012_TrackerHierarchy.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/tracker_hierarchy/Tracker_Hierarchy.htm)]
 
 ### Patents
-* Semantic Class Localization in Images (US 9846840)
+* Semantic Class Localization in Images ([US 9846840](http://www.freepatentsonline.com/y2017/0344884.html))
+* Generating Image Features Based on Robust Feature-Learning ([US 9830526](http://www.freepatentsonline.com/9830526.html))
 * Accurate Tag Relevance Prediction for Image Search ([Pending](https://www.google.com/patents/US20170236055), International)
 * Image Zooming ([US 9805445](https://www.google.com/patents/US9805445))
 * Image Cropping Suggestion Using Multiple Saliency Maps ([US 9626584](https://www.google.com/patents/US9626584))
@@ -42,12 +45,12 @@ Contact: _jianmzha AT adobe.com_
 ## Tech Transfer Highlights
 
 ![](img/select-subject.jpg) 
-* __Select Subject__ in Photoshop CC 2018. Deep learning based salient object detection. [[Youtube](https://youtu.be/x-9qYLr15tU)] I designed and developed the deep learning model for this feature.
+* __Select Subject__ in Photoshop CC 2018. Deep learning based salient object detection with high boundary accuracy. [[Youtube](https://youtu.be/x-9qYLr15tU)] I designed and developed the deep learning model for this feature.
 
 ---
 
 ![](img/adobe-photoshop-elemnents-18.jpg) 
-* __Auto Selection__ in Photoshop Elements 2018. Deep learning based interactive image segmentation. [[Youtube](https://youtu.be/kXUW1Z_f5Ug)] I designed developed the deep learning model for this feature.
+* __Auto Selection__ in Photoshop Elements 2018. Deep learning based interactive image segmentation. [[Youtube](https://youtu.be/kXUW1Z_f5Ug)] I designed and developed the deep learning model for this feature.
 
 ## Former Interns
 * [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), 2017.
