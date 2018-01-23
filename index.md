@@ -45,12 +45,12 @@ Contact: _jianmzha AT adobe.com_
 ## Tech Transfer Highlights
 
 ![](img/select-subject.jpg) 
-* __Select Subject__ in Photoshop CC 2018 [[Youtube](https://youtu.be/x-9qYLr15tU)]. Deep learning based salient object detection with high boundary accuracy. This is one of the first few Sensei powered features in Adobe flagship products. I designed and developed the deep learning technique for this feature. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
+* __Select Subject__ in Photoshop CC 2018 [[Youtube](https://youtu.be/x-9qYLr15tU)]. Deep learning based salient object detection with high boundary accuracy. This is one of the first few Sensei powered features in Adobe flagship products. I designed and developed the deep learning algorithm behind this feature. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
 
 ---
 
 ![](img/adobe-photoshop-elemnents-18.jpg) 
-* __Auto Selection__ in Photoshop Elements 2018 [[Youtube](https://youtu.be/kXUW1Z_f5Ug)]. Deep learning based interactive image segmentation. I designed and developed the deep learning technique for this feature.
+* __Auto Selection__ in Photoshop Elements 2018 [[Youtube](https://youtu.be/kXUW1Z_f5Ug)]. Deep learning based interactive image segmentation. I designed and developed the deep learning algorithm behind this feature.
 
 ## Former Interns
 * [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), 2017.
