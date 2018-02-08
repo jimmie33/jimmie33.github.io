@@ -54,6 +54,7 @@ Contact: _jianmzha AT adobe.com_
 * __Auto Selection__ in Photoshop Elements 2018 [[Youtube](https://youtu.be/kXUW1Z_f5Ug)]. Deep learning based interactive image segmentation. I designed and developed the deep learning algorithm behind this feature.
 
 ## Former Interns
+* [Kang Hao](https://www.linkedin.com/in/haokang2017/) 
 * [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), 2017.
 * Jianan Li, 2017.
 * [Zhe Wang](http://wangzheallen.github.io/), 2017.
