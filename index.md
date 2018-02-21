@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [02/20/2018] Two papers get accepted at CVPR.
 * [01/23/2018] The _Select Subject_ feature is shipped in Photoshop CC, which is my first major tech transfer in Adobe flagship products. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
 * [01/09/2018] Our paper on object segmentation ambiguity is accepted at IJCV. [[arXiv](https://arxiv.org/abs/1705.00366)]
 * [12/16/2017] The journal version of our Excitation Backprop work is accepted at IJCV.
@@ -24,6 +25,8 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
+* Zijun Wei, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Radomir Mech, Min Hoai and Dimitris Samaras. "Good View Hunting: Learning Photo Composition from View Pairs". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2018.
+* Sarah Adel Bargal*, Andrea Zunino*, Donghyun Kim, __Jianming Zhang__, Vittorio Murino, Stan Sclaroff. "Excitation Backprop for RNNs." In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2018. 
 * Filip Malmberg, Robin Strand, __Jianming Zhang__, Stan Sclaroff. "The Boolean Map Distance: Theory and Efficient Computation". In _Proc. International Conference on Discrete Geometry for Computer Imagery (DGCI)_, 2017. [[Pub](https://link.springer.com/chapter/10.1007/978-3-319-66272-5_27)]
 * Vasili Ramanishka, Abir Das, __Jianming Zhang__, Kate Saenko. "Top-down Visual Saliency Guided by Captions".  In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2017. [[PDF](https://arxiv.org/pdf/1612.07360.pdf)] [[Project Page](http://ai.bu.edu/caption-guided-saliency/)]
 * __Jianming Zhang__, Zhe Lin, Jonathan Brandt, Xiaohui Shen, Stan Sclaroff. "Top-down Neural Attention by Excitation Backprop". In _Proc. European Conference on Computer Vision (ECCV)_, 2016. (__oral__) [[PDF](http://cs-people.bu.edu/jmzhang/EB/ExcitationBackprop.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/EB/ExcitationBackprop-supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/excitationbp.html)]
