@@ -25,7 +25,7 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
-* Zijun Wei, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Radomir Mech, Min Hoai and Dimitris Samaras. "Good View Hunting: Learning Photo Composition from View Pairs". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2018.
+* Zijun Wei, __Jianming Zhang__, Min Hoai, Xiaohui Shen, Zhe Lin, Radomir Mech and Dimitris Samaras. "Good View Hunting: Learning Photo Composition from Dense View Pairs". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2018.
 * Sarah Adel Bargal\*, Andrea Zunino\*, Donghyun Kim, __Jianming Zhang__, Vittorio Murino, Stan Sclaroff. "Excitation Backprop for RNNs." In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2018. 
 * Filip Malmberg, Robin Strand, __Jianming Zhang__, Stan Sclaroff. "The Boolean Map Distance: Theory and Efficient Computation". In _Proc. International Conference on Discrete Geometry for Computer Imagery (DGCI)_, 2017. [[Pub](https://link.springer.com/chapter/10.1007/978-3-319-66272-5_27)]
 * Vasili Ramanishka, Abir Das, __Jianming Zhang__, Kate Saenko. "Top-down Visual Saliency Guided by Captions".  In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2017. [[PDF](https://arxiv.org/pdf/1612.07360.pdf)] [[Project Page](http://ai.bu.edu/caption-guided-saliency/)]
