@@ -18,6 +18,7 @@ Contact: _jianmzha AT adobe.com_
 * Visual Saliency Computation for Image Analysis. Boston University, 2016. [[PDF](https://www.dropbox.com/s/m9557mlql5e643h/thesis_final.pdf?dl=0)]  
 
 ### Journals
+* Yuqiu Kong, __Jianming Zhang__, Huchuan Lu, Xiuping Liu, "Exemplar-aided Salient Object Detection via Joint Latent Space Embedding". _IEEE Transactions on Image Processing_, 2018.
 * Danna Gurari, Kun He, Bo Xiong, __Jianming Zhang__, Mehrnoosh Sameki, Suyog Dutt Jain, Stan Sclaroff, Margrit Betke, Kristen Grauman. "Predicting Foreground Object Ambiguity and Efficiently Crowdsourcing the Segmentation (s)". _International Journal of Computer Vision (IJCV)_, 2018. [[Pub](http://link.springer.com/article/10.1007/s11263-018-1065-7)] [[arXiv](https://arxiv.org/abs/1705.00366)]
 * __Jianming Zhang__, Sarah Adel Bargal, Zhe Lin, Xiaohui Shen, Jonathan Brandt, Stan Sclaroff.  "Top-down Neural Attention by Excitation Backprop". _International Journal of Computer Vision (IJCV)_, 2018. [[Pub](https://link.springer.com/article/10.1007/s11263-017-1059-x)] [[Project Page](http://cs-people.bu.edu/jmzhang/excitationbp.html)]
 * __Jianming Zhang__, Shugao Ma, Mehrnoosh Sameki, Stan Sclaroff, Margrit Betke, Zhe Lin, Xiaohui Shen, Brian Price and Radomír Měch.  "Salient Object Subitizing". _International Journal of Computer Vision (IJCV)_, 2017. [[Pub](https://link.springer.com/article/10.1007%2Fs11263-017-1011-0)] [[Project Page](http://cs-people.bu.edu/jmzhang/sos.html)]
@@ -26,6 +27,9 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
+* Wei-Chih Hung, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Joon-Young Lee,Ming-Hsuan Yang. "Learning to Blend Photos". In _Proc. European Conference on Computer Vision (ECCV)_, 2018.
+* Rameswar Panda, __Jianming Zhang__, Haoxiang Li, Joon-Young Lee, Xin Lu, Amit Roy-Chowdhury, "Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias". In _Proc. European Conference on Computer Vision (ECCV)_, 2018.
+* Yufei Wang, Zhe Lin, Xiaohui Shen, Scott Cohen, __Jianming Zhang__. "ConceptMask: Large-Scale Segmentation from Semantic Concepts". In _Proc. European Conference on Computer Vision (ECCV)_, 2018.
 * Zijun Wei, __Jianming Zhang__, Min Hoai, Xiaohui Shen, Zhe Lin, Radomir Mech and Dimitris Samaras. "Good View Hunting: Learning Photo Composition from Dense View Pairs". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2018. [[PDF](http://www.zijunwei.org/papers/cvpr18-photo-composition.pdf)] [[Project Page](http://www.zijunwei.org/VPN_CVPR2018.html)]
 * Sarah Adel Bargal\*, Andrea Zunino\*, Donghyun Kim, __Jianming Zhang__, Vittorio Murino, Stan Sclaroff. "Excitation Backprop for RNNs." In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2018. [[PDF](http://cs-people.bu.edu/sbargal/arxiv-CEBR.pdf)] [[Code](https://github.com/sbargal/Caffe-ExcitationBP-RNNs)] 
 * Filip Malmberg, Robin Strand, __Jianming Zhang__, Stan Sclaroff. "The Boolean Map Distance: Theory and Efficient Computation". In _Proc. International Conference on Discrete Geometry for Computer Imagery (DGCI)_, 2017. [[Pub](https://link.springer.com/chapter/10.1007/978-3-319-66272-5_27)]
