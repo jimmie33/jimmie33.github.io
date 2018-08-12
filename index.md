@@ -6,6 +6,8 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [08/11/2018] Our paper on multi-touch guesture control for drone photography will be presented at IROS 2018
+* [08/11/2018] Our paper on shallow DoF effect form a single image gets accepted at Siggraph Asia
 * [07/04/2018] Three papers get accepted at ECCV.
 * [02/20/2018] Two papers get accepted at CVPR.
 * [01/23/2018] The _Select Subject_ feature is shipped in Photoshop CC, which is my first major tech transfer in Adobe flagship products. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
@@ -18,7 +20,8 @@ Contact: _jianmzha AT adobe.com_
 * Visual Saliency Computation for Image Analysis. Boston University, 2016. [[PDF](https://www.dropbox.com/s/m9557mlql5e643h/thesis_final.pdf?dl=0)]  
 
 ### Journals
-* Yuqiu Kong, __Jianming Zhang__, Huchuan Lu, Xiuping Liu, "Exemplar-aided Salient Object Detection via Joint Latent Space Embedding". _IEEE Transactions on Image Processing_, 2018.
+* Hao Kang, Haoxiang Li, __Jianming Zhang__, Xin Lu, Bedrich Benes, "FlyCam: Multi-touch Gesture Controlled Drone Gimbal Photography". _IEEE Robotics and Automation Letters_, 2018. (selected to be presented at IROS 2018, Spain) [[Pub](https://ieeexplore.ieee.org/abstract/document/8411115/)]
+* Yuqiu Kong, __Jianming Zhang__, Huchuan Lu, Xiuping Liu, "Exemplar-aided Salient Object Detection via Joint Latent Space Embedding". _IEEE Transactions on Image Processing_, 2018. [[Pub](https://ieeexplore.ieee.org/abstract/document/8410567/)]
 * Danna Gurari, Kun He, Bo Xiong, __Jianming Zhang__, Mehrnoosh Sameki, Suyog Dutt Jain, Stan Sclaroff, Margrit Betke, Kristen Grauman. "Predicting Foreground Object Ambiguity and Efficiently Crowdsourcing the Segmentation (s)". _International Journal of Computer Vision (IJCV)_, 2018. [[Pub](http://link.springer.com/article/10.1007/s11263-018-1065-7)] [[arXiv](https://arxiv.org/abs/1705.00366)]
 * __Jianming Zhang__, Sarah Adel Bargal, Zhe Lin, Xiaohui Shen, Jonathan Brandt, Stan Sclaroff.  "Top-down Neural Attention by Excitation Backprop". _International Journal of Computer Vision (IJCV)_, 2018. [[Pub](https://link.springer.com/article/10.1007/s11263-017-1059-x)] [[Project Page](http://cs-people.bu.edu/jmzhang/excitationbp.html)]
 * __Jianming Zhang__, Shugao Ma, Mehrnoosh Sameki, Stan Sclaroff, Margrit Betke, Zhe Lin, Xiaohui Shen, Brian Price and Radomír Měch.  "Salient Object Subitizing". _International Journal of Computer Vision (IJCV)_, 2017. [[Pub](https://link.springer.com/article/10.1007%2Fs11263-017-1011-0)] [[Project Page](http://cs-people.bu.edu/jmzhang/sos.html)]
