@@ -6,8 +6,9 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
-* [08/11/2018] Our paper on multi-touch guesture control for drone photography will be presented at IROS 2018
-* [08/11/2018] Our paper on shallow DoF effect form a single image gets accepted at Siggraph Asia
+* [09/17/2018] Our paper on pointer networks for sequence analysis accepted at NIPS.
+* [08/11/2018] Our paper on multi-touch guesture control for drone photography will be presented at IROS 2018.
+* [08/11/2018] Our paper on shallow DoF effect form a single image gets accepted at Siggraph Asia.
 * [07/04/2018] Three papers get accepted at ECCV.
 * [02/20/2018] Two papers get accepted at CVPR.
 * [01/23/2018] The _Select Subject_ feature is shipped in Photoshop CC, which is my first major tech transfer in Adobe flagship products. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
@@ -65,11 +66,13 @@ Contact: _jianmzha AT adobe.com_
 * __Auto Selection__ in Photoshop Elements 2018 [[Youtube](https://youtu.be/kXUW1Z_f5Ug)]. Deep learning based interactive image segmentation. I designed and developed the deep learning algorithm behind this feature.
 
 ## Former Interns
+* [He Zhang](https://sites.google.com/site/hezhangsprinter/), Rutgers University, 2018
+* [Haichao Yu](http://www.haichaoyu.me/home), UIUC, 2018
 * [Kang Hao](https://www.linkedin.com/in/haokang2017/), Purdue University, 2018 
 * [Lijun Wang](https://scholar.google.com/citations?user=EfTwkXMolscC&hl=en), Dalian University of Technology, 2017.
-* Jianan Li, NUS, 2017.
+* Jianan Li, Beijing Institute of Technology, 2017.
 * [Zhe Wang](http://wangzheallen.github.io/), UC Irvine, 2017.
 * [Rameswar Panda](https://rpand002.github.io/), UC Riverside, 2017.
 * [Wei-Chih (Wayne) Hung](https://hfslyc.github.io/), UC Merced, 2017.
-* [Zijun Wei](http://www.zijunwei.org/), Stony Brook University, 2017.
+* [Zijun Wei](http://www.zijunwei.org/), Stony Brook University, 2017, 2018.
 
