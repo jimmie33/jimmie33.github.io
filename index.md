@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [10/11/2018] The _Content Aware Fit_ and _Content Aware Crop_ feature is shipped in InDesign CC and Illustrator CC ([Demo](https://youtu.be/-43ijHtK_QM)). I developed the key auto cropping technology behind these features. 
 * [09/17/2018] Our paper on pointer networks for sequence analysis accepted at NIPS.
 * [08/11/2018] Our paper on multi-touch guesture control for drone photography will be presented at IROS 2018.
 * [08/11/2018] Our paper on shallow DoF effect form a single image gets accepted at Siggraph Asia.
@@ -56,6 +57,11 @@ Contact: _jianmzha AT adobe.com_
 * Saliency Map Computation ([US 9454712](https://www.google.com/patents/US9454712))
 
 ## Tech Transfer Highlights
+
+![](img/content-aware-fit.png)
+* __Conten Aware Fit__ in InDesign CC 2019 [[Youtube](https://youtu.be/-43ijHtK_QM)]. The key technology behind this is an automatic image cropping algorithm we started to develop years ago. Since then, the algorithm went through several iterations and I was the main developer for the latest version.
+
+---
 
 ![](img/select-subject.jpg) 
 * __Select Subject__ in Photoshop CC 2018 [[Youtube](https://youtu.be/x-9qYLr15tU)]. Deep learning based salient object detection with high boundary accuracy. This is one of the first few Sensei powered features in Adobe flagship products. I designed and developed the deep learning algorithm behind this feature. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
