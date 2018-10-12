@@ -6,7 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
-* [10/11/2018] The _Content Aware Fit_ and _Content Aware Crop_ feature is shipped in InDesign CC and Illustrator CC ([Demo](https://youtu.be/-43ijHtK_QM)). I developed the key auto cropping technology behind these features. 
+* [10/11/2018] The _Content Aware Fit_ and _Content Aware Crop_ feature are shipped in InDesign CC and Illustrator CC ([Demo](https://youtu.be/-43ijHtK_QM)). I developed the key auto cropping technology behind these features. 
 * [09/17/2018] Our paper on pointer networks for sequence analysis accepted at NIPS.
 * [08/11/2018] Our paper on multi-touch guesture control for drone photography will be presented at IROS 2018.
 * [08/11/2018] Our paper on shallow DoF effect form a single image gets accepted at Siggraph Asia.
