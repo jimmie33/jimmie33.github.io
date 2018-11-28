@@ -7,7 +7,7 @@ Contact: _jianmzha AT adobe.com_
 -------
 ## News
 * [10/11/2018] The _Content Aware Fit_ and _Content Aware Crop_ feature are shipped in InDesign CC and Illustrator CC ([Demo](https://youtu.be/-43ijHtK_QM)). I developed the key auto cropping technology behind these features. 
-* [09/17/2018] Our paper on pointer networks for sequence analysis accepted at NIPS.
+* [09/17/2018] Our paper on pointer networks for sequence analysis accepted at NeurIPS.
 * [08/11/2018] Our paper on multi-touch guesture control for drone photography will be presented at IROS 2018.
 * [08/11/2018] Our paper on shallow DoF effect form a single image gets accepted at Siggraph Asia.
 * [07/04/2018] Three papers get accepted at ECCV.
@@ -32,6 +32,7 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
+* Zijun Wei, Boyu Wang, Minh Hoai, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Radomir Mech and Dimitris Samaras. "Sequence-to-Segment Networks for Segment Detection". In _Proc. Advances in Neural Information Processing Systems (NeurIPS)_, 2018.
 * Lijun Wang, Xiaohui Shen, __Jianming Zhang__, Oliver Wang, Zhe Lin, Chih-Yao Hsieh, Sarah Kong, Huchuan Lu. "DeepLens: Shallow Depth Of Field From A Single Image". In _Proc. Siggraph Asia_, 2018. [[PDF](https://deeplensprj.github.io/deeplens/DeepLens/shallowdof.pdf)] [[Project Page](https://deeplensprj.github.io/deeplens/DeepLens.html)]
 * Wei-Chih Hung, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Joon-Young Lee,Ming-Hsuan Yang. "Learning to Blend Photos". In _Proc. European Conference on Computer Vision (ECCV)_, 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei-Chih_Hung_Learning_to_Blend_ECCV_2018_paper.pdf)] [[Project Page](https://github.com/hfslyc/LearnToBlend)]
 * Rameswar Panda, __Jianming Zhang__, Haoxiang Li, Joon-Young Lee, Xin Lu, Amit Roy-Chowdhury, "Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias". In _Proc. European Conference on Computer Vision (ECCV)_, 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rameswar_Panda_Contemplating_Visual_Emotions_ECCV_2018_paper.pdf)] [[Project Page](https://rpand002.github.io/emotion.html)]
