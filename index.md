@@ -21,6 +21,9 @@ Contact: _jianmzha AT adobe.com_
 ### PhD Thesis
 * Visual Saliency Computation for Image Analysis. Boston University, 2016. [[PDF](https://www.dropbox.com/s/m9557mlql5e643h/thesis_final.pdf?dl=0)]  
 
+### Books
+* __Jianming Zhang__, Filip Malmberg, Stan Sclaroff. "Visual Saliency: From Pixel-Level to Object-Level Analysis". Springer, 2019 (to appear). [[Pub](https://www.springer.com/us/book/9783030048303)] 
+
 ### Journals
 * Hao Kang, Haoxiang Li, __Jianming Zhang__, Xin Lu, Bedrich Benes, "FlyCam: Multi-touch Gesture Controlled Drone Gimbal Photography". _IEEE Robotics and Automation Letters_, 2018. (selected to be presented at IROS 2018, Spain) [[Pub](https://ieeexplore.ieee.org/abstract/document/8411115/)]
 * Yuqiu Kong, __Jianming Zhang__, Huchuan Lu, Xiuping Liu, "Exemplar-aided Salient Object Detection via Joint Latent Space Embedding". _IEEE Transactions on Image Processing_, 2018. [[Pub](https://ieeexplore.ieee.org/abstract/document/8410567/)]
