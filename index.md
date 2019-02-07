@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [02/06/2019] Received Adobe's Tech Excellence Award with the other three amazing colleagues.
 * [01/01/2019] One paper on Layout GAN gets accepted at ICLR.
 * [01/01/2019] One paper on Mobile Composition Guidance gets accepted at CHI.
 * [10/11/2018] The _Content Aware Fit_ and _Content Aware Crop_ feature are shipped in InDesign CC and Illustrator CC ([Demo](https://youtu.be/-43ijHtK_QM)). I developed the key auto cropping technology behind these features. 
@@ -16,7 +17,6 @@ Contact: _jianmzha AT adobe.com_
 * [02/20/2018] Two papers get accepted at CVPR.
 * [01/23/2018] The _Select Subject_ feature is shipped in Photoshop CC, which is my first major tech transfer in Adobe flagship products. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
 * [01/09/2018] Our paper on object segmentation ambiguity is accepted at IJCV. [[arXiv](https://arxiv.org/abs/1705.00366)]
-* [12/16/2017] The journal version of our Excitation Backprop work is accepted at IJCV.
 
 ## Selected Publications
 
