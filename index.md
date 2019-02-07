@@ -6,7 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
-* [02/06/2019] Received Adobe's Tech Excellence Award with the other three amazing colleagues.
+* [02/06/2019] Received Adobe's _Tech Excellence Award_ with the other three amazing colleagues.
 * [01/01/2019] One paper on Layout GAN gets accepted at ICLR.
 * [01/01/2019] One paper on Mobile Composition Guidance gets accepted at CHI.
 * [10/11/2018] The _Content Aware Fit_ and _Content Aware Crop_ feature are shipped in InDesign CC and Illustrator CC ([Demo](https://youtu.be/-43ijHtK_QM)). I developed the key auto cropping technology behind these features. 
