@@ -6,6 +6,8 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [03/15/2019] Two papers accepted at CVPR 2019.
+* [03/15/2019] Our paper SmartEye received Best Paper Honorable Mention at CHI.
 * [02/06/2019] Received Adobe's _Tech Excellence Award_ with three other amazing colleagues.
 * [01/01/2019] One paper on Layout GAN gets accepted at ICLR.
 * [01/01/2019] One paper on Mobile Composition Guidance gets accepted at CHI.
@@ -37,7 +39,9 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
-* Shuai Ma, Zijun Wei, Feng Tian, Xiangmin Fan, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Jin Huang, Radomír Měch, Dimitris Samaras, Hongan Wang. "SmartEye: Assisted Instant Photo Taking via the Integration of User Preferences into the View Proposal Network". In _ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)_, 2019.
+* 
+* Siyuan Qiao, Zhe Lin, __Jianming Zhang__, and Alan Yuille. "Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization." In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2019.
+* Shuai Ma, Zijun Wei, Feng Tian, Xiangmin Fan, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Jin Huang, Radomír Měch, Dimitris Samaras, Hongan Wang. "SmartEye: Assisted Instant Photo Taking via the Integration of User Preferences into the View Proposal Network". In _ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)_, 2019. (__Best Paper Honorable Mention__)
 * Jianan Li, Jimei Yang, Aaron Hertzmann, __Jianming Zhang__ and Tingfa Xu. "LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator". In _Proc. International Conference on Learning Representations (ICLR)_, 2019.
 * Zijun Wei, Boyu Wang, Minh Hoai, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Radomir Mech and Dimitris Samaras. "Sequence-to-Segment Networks for Segment Detection". In _Proc. Advances in Neural Information Processing Systems (NeurIPS)_, 2018.
 * Lijun Wang, Xiaohui Shen, __Jianming Zhang__, Oliver Wang, Zhe Lin, Chih-Yao Hsieh, Sarah Kong, Huchuan Lu. "DeepLens: Shallow Depth Of Field From A Single Image". In _Proc. Siggraph Asia_, 2018. [[PDF](https://deeplensprj.github.io/deeplens/DeepLens/shallowdof.pdf)] [[Project Page](https://deeplensprj.github.io/deeplens/DeepLens.html)]
@@ -64,6 +68,11 @@ Contact: _jianmzha AT adobe.com_
 * Image Zooming ([US 9805445](https://www.google.com/patents/US9805445))
 * Image Cropping Suggestion Using Multiple Saliency Maps ([US 9626584](https://www.google.com/patents/US9626584))
 * Saliency Map Computation ([US 9454712](https://www.google.com/patents/US9454712))
+
+## Honors and Awards
+* Best Paper Honorable Mention, CHI 2019
+* Technical Excellence Award, Adobe 2019
+* Outstanding Reviewer, CVPR 2017
 
 ## Tech Transfer Highlights
 
