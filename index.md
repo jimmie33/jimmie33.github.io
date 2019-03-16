@@ -39,7 +39,6 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
-* 
 * Siyuan Qiao, Zhe Lin, __Jianming Zhang__, and Alan Yuille. "Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization." In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2019.
 * Shuai Ma, Zijun Wei, Feng Tian, Xiangmin Fan, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Jin Huang, Radomír Měch, Dimitris Samaras, Hongan Wang. "SmartEye: Assisted Instant Photo Taking via the Integration of User Preferences into the View Proposal Network". In _ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)_, 2019. (__Best Paper Honorable Mention__)
 * Jianan Li, Jimei Yang, Aaron Hertzmann, __Jianming Zhang__ and Tingfa Xu. "LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator". In _Proc. International Conference on Learning Representations (ICLR)_, 2019.
