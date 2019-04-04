@@ -17,9 +17,6 @@ Contact: _jianmzha AT adobe.com_
 * [08/11/2018] Our paper on multi-touch guesture control for drone photography will be presented at IROS 2018.
 * [08/11/2018] Our paper on shallow DoF effect form a single image gets accepted at Siggraph Asia.
 * [07/04/2018] Three papers get accepted at ECCV.
-* [02/20/2018] Two papers get accepted at CVPR.
-* [01/23/2018] The _Select Subject_ feature is shipped in Photoshop CC, which is my first major tech transfer in Adobe flagship products. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
-* [01/09/2018] Our paper on object segmentation ambiguity is accepted at IJCV. [[arXiv](https://arxiv.org/abs/1705.00366)]
 
 ## Selected Publications
 
@@ -63,7 +60,6 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__, Liliana  Lo Presti and Stan Sclaroff, "Online Multi-Person Tracking by Tracker Hierarchy". In _Proc. IEEE Conference on Advanced Video and Signal Based Surveillance (AVSS)_, 2012. [[PDF](http://www.cs.bu.edu/groups/ivc/software/TrackerHierarchy/AVSS2012_TrackerHierarchy.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/tracker_hierarchy/Tracker_Hierarchy.htm)]
 
 ### Patents
-* 
 * Large-scale image tagging using image-to-topic embedding ([US 10216766B2](https://patentimages.storage.googleapis.com/c2/da/52/caf2af341f092b/US10216766.pdf))
 * Semantic Class Localization in Images ([US 9846840](http://www.freepatentsonline.com/y2017/0344884.html))
 * Generating Image Features Based on Robust Feature-Learning ([US 9830526](http://www.freepatentsonline.com/9830526.html))
