@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [04/04/2019] Our code for single image shallow DoF is released [[code]](https://github.com/scott89/deeplens_eval)
 * [03/15/2019] Two papers accepted at CVPR 2019.
 * [03/15/2019] Our paper SmartEye received Best Paper Honorable Mention at CHI.
 * [02/06/2019] Received Adobe's _Tech Excellence Award_ with three other amazing colleagues.
@@ -39,11 +40,12 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
-* Siyuan Qiao, Zhe Lin, __Jianming Zhang__, and Alan Yuille. "Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization." In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2019.
+* Lu Zhang, __Jianming Zhang__, Zhe Lin, Huchuan Lu, You He. "CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2019.
+* Siyuan Qiao, Zhe Lin, __Jianming Zhang__, and Alan Yuille. "Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2019.
 * Shuai Ma, Zijun Wei, Feng Tian, Xiangmin Fan, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Jin Huang, Radomír Měch, Dimitris Samaras, Hongan Wang. "SmartEye: Assisted Instant Photo Taking via the Integration of User Preferences into the View Proposal Network". In _ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)_, 2019. (__Best Paper Honorable Mention__)
 * Jianan Li, Jimei Yang, Aaron Hertzmann, __Jianming Zhang__ and Tingfa Xu. "LayoutGAN: Generating Graphic Layouts with Wireframe Discriminator". In _Proc. International Conference on Learning Representations (ICLR)_, 2019.
 * Zijun Wei, Boyu Wang, Minh Hoai, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Radomir Mech and Dimitris Samaras. "Sequence-to-Segment Networks for Segment Detection". In _Proc. Advances in Neural Information Processing Systems (NeurIPS)_, 2018.
-* Lijun Wang, Xiaohui Shen, __Jianming Zhang__, Oliver Wang, Zhe Lin, Chih-Yao Hsieh, Sarah Kong, Huchuan Lu. "DeepLens: Shallow Depth Of Field From A Single Image". In _Proc. Siggraph Asia_, 2018. [[PDF](https://deeplensprj.github.io/deeplens/DeepLens/shallowdof.pdf)] [[Project Page](https://deeplensprj.github.io/deeplens/DeepLens.html)]
+* Lijun Wang, Xiaohui Shen, __Jianming Zhang__, Oliver Wang, Zhe Lin, Chih-Yao Hsieh, Sarah Kong, Huchuan Lu. "DeepLens: Shallow Depth Of Field From A Single Image". In _Proc. Siggraph Asia_, 2018. [[PDF](https://deeplensprj.github.io/deeplens/DeepLens/shallowdof.pdf)] [[Project Page](https://scott89.github.io/deeplens/DeepLens.html)] [[code]](https://github.com/scott89/deeplens_eval)
 * Wei-Chih Hung, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Joon-Young Lee,Ming-Hsuan Yang. "Learning to Blend Photos". In _Proc. European Conference on Computer Vision (ECCV)_, 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei-Chih_Hung_Learning_to_Blend_ECCV_2018_paper.pdf)] [[Project Page](https://github.com/hfslyc/LearnToBlend)]
 * Rameswar Panda, __Jianming Zhang__, Haoxiang Li, Joon-Young Lee, Xin Lu, Amit Roy-Chowdhury, "Contemplating Visual Emotions: Understanding and Overcoming Dataset Bias". In _Proc. European Conference on Computer Vision (ECCV)_, 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Rameswar_Panda_Contemplating_Visual_Emotions_ECCV_2018_paper.pdf)] [[Project Page](https://rpand002.github.io/emotion.html)]
 * Yufei Wang, Zhe Lin, Xiaohui Shen, Scott Cohen, __Jianming Zhang__. "ConceptMask: Large-Scale Segmentation from Semantic Concepts". In _Proc. European Conference on Computer Vision (ECCV)_, 2018.
@@ -61,6 +63,8 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__, Liliana  Lo Presti and Stan Sclaroff, "Online Multi-Person Tracking by Tracker Hierarchy". In _Proc. IEEE Conference on Advanced Video and Signal Based Surveillance (AVSS)_, 2012. [[PDF](http://www.cs.bu.edu/groups/ivc/software/TrackerHierarchy/AVSS2012_TrackerHierarchy.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/tracker_hierarchy/Tracker_Hierarchy.htm)]
 
 ### Patents
+* 
+* Large-scale image tagging using image-to-topic embedding ([US 10216766B2](https://patentimages.storage.googleapis.com/c2/da/52/caf2af341f092b/US10216766.pdf))
 * Semantic Class Localization in Images ([US 9846840](http://www.freepatentsonline.com/y2017/0344884.html))
 * Generating Image Features Based on Robust Feature-Learning ([US 9830526](http://www.freepatentsonline.com/9830526.html))
 * Accurate Tag Relevance Prediction for Image Search ([Pending](https://www.google.com/patents/US20170236055), International)
