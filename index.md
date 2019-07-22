@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [07/22/2019] Three papers accepted at ICCV 2019.
 * [04/04/2019] Our code for single image shallow DoF is released [[code]](https://github.com/scott89/deeplens_eval)
 * [03/15/2019] Two papers accepted at CVPR 2019.
 * [03/15/2019] Our paper SmartEye received Best Paper Honorable Mention at CHI.
