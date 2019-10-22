@@ -28,6 +28,8 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__, Filip Malmberg, Stan Sclaroff. "Visual Saliency: From Pixel-Level to Object-Level Analysis". Springer, 2019. [[Pub](https://www.springer.com/us/book/9783030048303)] 
 
 ### Journals
+* Zijun Wei, Boyu Wang, Minh Hoai, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Radomir Mech, Dimitris Samaras. "Sequence-to-Segments Networks for Detecting Segments in Videos". IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019. [[Pub](https://ieeexplore.ieee.org/abstract/document/8827968)]
+* Xin Ye, Zhe Lin, Joon-Young Lee, __Jianming Zhang__, Shibin Zheng, Yezhou Yang. "GAPLE: Generalizable Approaching Policy LEarning for Robotic Object Searching in Indoor Environment". IEEE Robotics and Automation Letters (RAL), 2019. [[arXiv](https://arxiv.org/pdf/1809.08287.pdf)]
 * Hao Kang, Haoxiang Li, __Jianming Zhang__, Xin Lu, Bedrich Benes, "FlyCam: Multi-touch Gesture Controlled Drone Gimbal Photography". _IEEE Robotics and Automation Letters_, 2018. (selected to be presented at IROS 2018, Spain) [[Pub](https://ieeexplore.ieee.org/abstract/document/8411115/)]
 * Yuqiu Kong, __Jianming Zhang__, Huchuan Lu, Xiuping Liu, "Exemplar-aided Salient Object Detection via Joint Latent Space Embedding". _IEEE Transactions on Image Processing_, 2018. [[Pub](https://ieeexplore.ieee.org/abstract/document/8410567/)]
 * Danna Gurari, Kun He, Bo Xiong, __Jianming Zhang__, Mehrnoosh Sameki, Suyog Dutt Jain, Stan Sclaroff, Margrit Betke, Kristen Grauman. "Predicting Foreground Object Ambiguity and Efficiently Crowdsourcing the Segmentation (s)". _International Journal of Computer Vision (IJCV)_, 2018. [[Pub](http://link.springer.com/article/10.1007/s11263-018-1065-7)] [[arXiv](https://arxiv.org/abs/1705.00366)]
@@ -38,6 +40,9 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
+* Lu Zhang, Zhe Lin, __Jianming Zhang__, Huchuan Lu, You He. "Fast Video Object Segmentation via Dynamic Targeting Network". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2019.
+* Yi Zeng, Pingping Zhang, __Jianming Zhang__, Zhe Lin, Huchuan Lu. "Towards High-Resolution Salient Object Detection". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2019. [[arXiv](https://arxiv.org/pdf/1908.07274)]
+* Jason Kuen, Federico Perazzi, Zhe Lin, __Jianming Zhang__, Yap-Peng Tan. "Scaling Object Detection by Transferring Classification Weights". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2019. [[arXiv](https://arxiv.org/pdf/1909.06804)]
 * Lu Zhang, __Jianming Zhang__, Zhe Lin, Huchuan Lu, You He. "CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CapSal_Leveraging_Captioning_to_Boost_Semantics_for_Salient_Object_Detection_CVPR_2019_paper.pdf)] [[Project Page](https://github.com/zhangludl/code-and-dataset-for-CapSal)]
 * Siyuan Qiao, Zhe Lin, __Jianming Zhang__, and Alan Yuille. "Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2019. (__oral__) [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Qiao_Neural_Rejuvenation_Improving_Deep_Network_Training_by_Enhancing_Computational_Resource_CVPR_2019_paper.pdf)][[Project Page](https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19)]
 * Shuai Ma, Zijun Wei, Feng Tian, Xiangmin Fan, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Jin Huang, Radomír Měch, Dimitris Samaras, Hongan Wang. "SmartEye: Assisted Instant Photo Taking via the Integration of User Preferences into the View Proposal Network". In _ACM CHI Conference on Human Factors in Computing Systems Proceedings (CHI)_, 2019. (__Best Paper Honorable Mention__) [[PDF](https://xiangminf.github.io/paper/smarteye-chi19.pdf)]
@@ -90,6 +95,8 @@ Contact: _jianmzha AT adobe.com_
 * __Auto Selection__ in Photoshop Elements 2018 [[Youtube](https://youtu.be/kXUW1Z_f5Ug)]. Deep learning based interactive image segmentation. I designed and developed the deep learning algorithm behind this feature.
 
 ## Former Interns
+* Lu Zhang, Dalian University of Technology, 2019.
+* Yichen Sheng, Purdue University, 2019
 * [Ke Xian](https://sites.google.com/site/kexian1991/), Huazhong University of Science and Technology, 2019
 * [He Zhang](https://sites.google.com/site/hezhangsprinter/), Rutgers University, 2018
 * [Haichao Yu](http://www.haichaoyu.me/home), UIUC, 2018
