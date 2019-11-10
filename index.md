@@ -81,7 +81,7 @@ Contact: _jianmzha AT adobe.com_
 
 ## Tech Transfer Highlights
 
-![](img/objselectionl.jpg)
+![](img/objselection.jpg)
 
 ---
 
