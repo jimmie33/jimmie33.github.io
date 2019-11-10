@@ -82,7 +82,7 @@ Contact: _jianmzha AT adobe.com_
 ## Tech Transfer Highlights
 
 ![](img/objselection.jpg)
-* __Object Selection Tool__ in Photoshop 2020 [[Youtube](https://youtu.be/0Qm5nS2PMBs)]. After nearly three years' development, engineering and testing, we shipped this new interative selection tool. It makes the selection so intuitive and easy. See reviews from profesionals [[PiXimperfect](https://youtu.be/ZIXM37H0mzs?t=87)] [[PTC](https://youtu.be/bgiWPuNT4PQ)] [[YES](https://youtu.be/f8_S8M6ZJt4)].
+* __Object Selection Tool__ in Photoshop 2020 [[Youtube](https://youtu.be/0Qm5nS2PMBs)]. After nearly three years' development, engineering and testing, we shipped this new interative selection tool. It makes the selection so intuitive and easy. See reviews from the profesionals [[PiXimperfect](https://youtu.be/ZIXM37H0mzs?t=87)] [[PTC](https://youtu.be/bgiWPuNT4PQ)] [[YES](https://youtu.be/f8_S8M6ZJt4)].
 
 ---
 
