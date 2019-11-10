@@ -81,6 +81,10 @@ Contact: _jianmzha AT adobe.com_
 
 ## Tech Transfer Highlights
 
+![](img/objselectionl.jpg)
+
+---
+
 ![](img/content-aware-fit.png)
 * __Conten Aware Fit__ in InDesign CC 2019 [[Youtube](https://youtu.be/-43ijHtK_QM)]. The key technology behind this is an automatic image cropping algorithm we started to develop years ago. Since then, the algorithm went through several iterations and I was the main developer for the latest version.
 
@@ -89,10 +93,6 @@ Contact: _jianmzha AT adobe.com_
 ![](img/select-subject.jpg) 
 * __Select Subject__ in Photoshop CC 2018 [[Youtube](https://youtu.be/x-9qYLr15tU)]. Deep learning based salient object detection with high boundary accuracy. This is one of the first few Sensei powered features in Adobe flagship products. I designed and developed the deep learning algorithm behind this feature. Media coverage: [[PetaPixel](https://petapixel.com/2018/01/23/select-subject-photoshop-now-ai-powered-one-click-selections/)], [[TechCrunch](https://techcrunch.com/2018/01/23/adobe-photoshop-cc-now-makes-selecting-objects-a-one-click-affair/)], [[Engaget](https://www.engadget.com/2018/01/23/photoshops-ai-select-subject/)].
 
----
-
-![](img/adobe-photoshop-elemnents-18.jpg) 
-* __Auto Selection__ in Photoshop Elements 2018 [[Youtube](https://youtu.be/kXUW1Z_f5Ug)]. Deep learning based interactive image segmentation. I designed and developed the deep learning algorithm behind this feature.
 
 ## Former Interns
 * Lu Zhang, Dalian University of Technology, 2019.
