@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [03/04/2020] Three papers accepted at CVPR 2020.
 * [07/22/2019] Three papers accepted at ICCV 2019.
 * [04/04/2019] Our code for single image shallow DoF is released [[code]](https://github.com/scott89/deeplens_eval)
 * [03/15/2019] Two papers accepted at CVPR 2019.
@@ -15,9 +16,6 @@ Contact: _jianmzha AT adobe.com_
 * [01/01/2019] One paper on Mobile Composition Guidance gets accepted at CHI.
 * [10/11/2018] The _Content Aware Fit_ and _Content Aware Crop_ feature are shipped in InDesign CC and Illustrator CC ([Demo](https://youtu.be/-43ijHtK_QM)). I developed the key auto cropping technology behind these features. 
 * [09/17/2018] Our paper on pointer networks for sequence analysis accepted at NeurIPS.
-* [08/11/2018] Our paper on multi-touch guesture control for drone photography will be presented at IROS 2018.
-* [08/11/2018] Our paper on shallow DoF effect form a single image gets accepted at Siggraph Asia.
-* [07/04/2018] Three papers get accepted at ECCV.
 
 ## Selected Publications
 
