@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [07/02/2020] Five papers accepted at ECCV 2020.
 * [03/04/2020] Three papers accepted at CVPR 2020.
 * [07/22/2019] Three papers accepted at ICCV 2019.
 * [04/04/2019] Our code for single image shallow DoF is released [[code]](https://github.com/scott89/deeplens_eval)
