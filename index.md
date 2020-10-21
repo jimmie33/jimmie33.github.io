@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [10/20/2020] Sky replacement is released in PS [[teaser](https://youtu.be/K_jWJ7Z-tKI)].
 * [07/02/2020] Five papers accepted at ECCV 2020.
 * [03/04/2020] Three papers accepted at CVPR 2020.
 * [07/22/2019] Three papers accepted at ICCV 2019.
@@ -89,6 +90,11 @@ Contact: _jianmzha AT adobe.com_
 * Outstanding Reviewer, CVPR 2017
 
 ## Tech Transfer Highlights
+
+![](https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_sswncd_2?$pjpeg$&jpegSize=100&wid=460)
+* __Sky Replacement__ in Photoshop 2021 [[Youtube](https://youtu.be/K_jWJ7Z-tKI)]. Starting as a research project years ago, we spent a lot of effort to make this technology achieve the quality level that would satifiy the picky professionals. I developed the backbone masking and compositing technologies and worked closely with the PS team to polish this feature. The final form of this feature is simple, flexible and powerful. It just shines! See what professionals say [[rephotojournal.com](https://rephotojournal.com/photoshop-sky-replacement-for-real-estate-photography/)] [[PHLEARN](https://youtu.be/ognLpUNLDwM)] [[PiXimperfect](https://youtu.be/I3dI5iHUH2U?t=35)].
+
+---
 
 ![](img/objselection.jpg)
 * __Object Selection Tool__ in Photoshop 2020 [[Youtube](https://youtu.be/0Qm5nS2PMBs)]. After nearly three years' development, engineering and testing, we shipped this new interative selection tool. It makes the selection so intuitive and easy. See reviews from the profesionals [[PiXimperfect](https://youtu.be/ZIXM37H0mzs?t=87)] [[PTC](https://youtu.be/bgiWPuNT4PQ)] [[YES](https://youtu.be/f8_S8M6ZJt4)].
