@@ -112,7 +112,7 @@ Contact: _jianmzha AT adobe.com_
 
 
 ## Former Interns
-* Yin Wei, Adelaide University, 2020
+* Wei Yin, Adelaide University, 2020
 * Qihang Yu, John Hopkins University, 2020
 * Lu Zhang, Dalian University of Technology, 2019.
 * Yichen Sheng, Purdue University, 2019
