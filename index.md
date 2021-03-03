@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [03/03/2021] Four papers accepted at CVPR 2021. Two of them are selected for oral presentation.
 * [10/20/2020] Sky replacement is released in PS [[teaser](https://youtu.be/K_jWJ7Z-tKI)].
 * [07/02/2020] Five papers accepted at ECCV 2020.
 * [03/04/2020] Three papers accepted at CVPR 2020.
