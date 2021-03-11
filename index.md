@@ -42,6 +42,10 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
+* Wei Yin, __Jianming Zhang__, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen. "Learning to Recover 3D Scene Shape from a Single Image". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
+* Yichen Sheng, __Jianming Zhang__, Bedrich Benes. "SSN: Soft Shadow Network for Image Compositing". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
+* Qihang Yu, __Jianming Zhang__, He Zhang, Yilin Wang, Zhe Lin, Ning Xu, Yutong Bai, Alan Yuille. "Mask Guided Matting via Progressive Refinement Network". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021.
+* Xin Yuan, Zhe Lin, Jason Kuen, __Jianming Zhang__, Yilin Wang, Michael Maire, Ajinkya Kale, Baldo Faieta. "Multimodal Contrastive Training for Visual Representation Learning".  In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021.
 * Lu Zhang, __Jianming Zhang__, Zhe Lin, Radomir Mech, Huchuan Lu, You He. "Unsupervised Video Object Segmentation with Joint Hotspot Tracking". In _Proc. European Conference on Computer Vision (ECCV)_, 2020.
 * Lijun Wang, __Jianming Zhang__, Yifan Wang, Huchuan Lu, Xiang Ruan. "CLIFFNet for Monocular Depth Estimation with Hierarchical Embedding Loss". In _Proc. European Conference on Computer Vision (ECCV)_, 2020.
 * Yu Zeng, Zhe Lin, Jimei Yang, __Jianming Zhang__, Eli Shechtman, and Huchuan Lu. "High-Resolution Image Inpainting with Iterative Confidence Feedback and Guided Upsampling". In _Proc. European Conference on Computer Vision (ECCV)_, 2020.
