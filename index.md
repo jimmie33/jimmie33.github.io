@@ -6,6 +6,8 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [10/25/2021] I will serve as an AC for CVPR 2022.
+* [10/01/2021] One paper accepted at ICCV 2021.
 * [03/03/2021] Four papers accepted at CVPR 2021. Two of them are selected for oral presentation.
 * [10/20/2020] Sky replacement is released in PS [[teaser](https://youtu.be/K_jWJ7Z-tKI)].
 * [07/02/2020] Five papers accepted at ECCV 2020.
@@ -17,8 +19,6 @@ Contact: _jianmzha AT adobe.com_
 * [02/06/2019] Received Adobe's _Tech Excellence Award_ with three amazing colleagues.
 * [01/01/2019] One paper on Layout GAN gets accepted at ICLR.
 * [01/01/2019] One paper on Mobile Composition Guidance gets accepted at CHI.
-* [10/11/2018] The _Content Aware Fit_ and _Content Aware Crop_ feature are shipped in InDesign CC and Illustrator CC ([Demo](https://youtu.be/-43ijHtK_QM)). I developed the key auto cropping technology behind these features. 
-* [09/17/2018] Our paper on pointer networks for sequence analysis accepted at NeurIPS.
 
 ## Selected Publications
 
@@ -29,6 +29,7 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__, Filip Malmberg, Stan Sclaroff. "Visual Saliency: From Pixel-Level to Object-Level Analysis". Springer, 2019. [[Pub](https://www.springer.com/us/book/9783030048303)] 
 
 ### Journals
+* Sarah Adel Bargal, Andrea Zunino, Vitali Petsiuk, __Jianming Zhang__, Kate Saenko, Vittorio Murino, and Stan Sclaroff. "Guided zoom: Zooming into network evidence to refine fine-grained model decisions." _IEEE Transactions on Pattern Analysis and Machine Intelligence(TPAMI)_, 2021.
 * Andrea Zunino, Sarah Adel Bargal, Pietro Morerio, __Jianming Zhang__, Stan Sclaroff, Vittorio Murino. "Excitation Dropout: Encouraging Plasticity in Deep Neural Networks". _International Journal of Computer Vision (IJCV)_, 2021. [[Pub](https://link.springer.com/article/10.1007/s11263-020-01422-y)]
 * Zijun Wei, Boyu Wang, Minh Hoai, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Radomir Mech, Dimitris Samaras. "Sequence-to-Segments Networks for Detecting Segments in Videos". IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2019. [[Pub](https://ieeexplore.ieee.org/abstract/document/8827968)]
 * Xin Ye, Zhe Lin, Joon-Young Lee, __Jianming Zhang__, Shibin Zheng, Yezhou Yang. "GAPLE: Generalizable Approaching Policy LEarning for Robotic Object Searching in Indoor Environment". IEEE Robotics and Automation Letters (RAL), 2019. [[arXiv](https://arxiv.org/pdf/1809.08287.pdf)]
@@ -42,6 +43,7 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
+* Yifan Jiang, He Zhang, __Jianming Zhang__, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang. “SSH: A Self-Supervised Framework for Image Harmonization”. In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2021.
 * Wei Yin, __Jianming Zhang__, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen. "Learning to Recover 3D Scene Shape from a Single Image". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
 * Yichen Sheng, __Jianming Zhang__, Bedrich Benes. "SSN: Soft Shadow Network for Image Compositing". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
 * Qihang Yu, __Jianming Zhang__, He Zhang, Yilin Wang, Zhe Lin, Ning Xu, Yutong Bai, Alan Yuille. "Mask Guided Matting via Progressive Refinement Network". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021.
