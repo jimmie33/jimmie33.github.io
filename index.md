@@ -95,7 +95,7 @@ Contact: _jianmzha AT adobe.com_
 ## Honors and Awards
 * Best Paper Honorable Mention, CHI 2019
 * Technical Excellence Award, Adobe 2019
-* Outstanding Reviewer, CVPR 2017
+* Outstanding Reviewer, CVPR 2017, CVPR 2021
 
 ## Tech Transfer Highlights
 
