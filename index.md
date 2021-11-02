@@ -44,7 +44,7 @@ Contact: _jianmzha AT adobe.com_
 
 ### Conferences
 * Yifan Jiang, He Zhang, __Jianming Zhang__, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang. “SSH: A Self-Supervised Framework for Image Harmonization”. In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2021.
-* Wei Yin, __Jianming Zhang__, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen. "Learning to Recover 3D Scene Shape from a Single Image". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
+* Wei Yin, __Jianming Zhang__, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen. "Learning to Recover 3D Scene Shape from a Single Image". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral and Best Paper Candidate__)
 * Yichen Sheng, __Jianming Zhang__, Bedrich Benes. "SSN: Soft Shadow Network for Image Compositing". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
 * Qihang Yu, __Jianming Zhang__, He Zhang, Yilin Wang, Zhe Lin, Ning Xu, Yutong Bai, Alan Yuille. "Mask Guided Matting via Progressive Refinement Network". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021.
 * Xin Yuan, Zhe Lin, Jason Kuen, __Jianming Zhang__, Yilin Wang, Michael Maire, Ajinkya Kale, Baldo Faieta. "Multimodal Contrastive Training for Visual Representation Learning".  In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021.
