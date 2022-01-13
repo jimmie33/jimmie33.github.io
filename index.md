@@ -119,10 +119,12 @@ Contact: _jianmzha AT adobe.com_
 
 
 ## Former Interns
+* Soo Ye Kim, Korea Advanced Institute of Science and Technology, 2021
+* Yifan Liu, Adelaide University, 2021
 * Wei Yin, Adelaide University, 2020
 * Qihang Yu, John Hopkins University, 2020
 * Lu Zhang, Dalian University of Technology, 2019.
-* Yichen Sheng, Purdue University, 2019
+* Yichen Sheng, Purdue University, 2019, 2021
 * [Ke Xian](https://sites.google.com/site/kexian1991/), Huazhong University of Science and Technology, 2019
 * [He Zhang](https://sites.google.com/site/hezhangsprinter/), Rutgers University, 2018
 * [Haichao Yu](http://www.haichaoyu.me/home), UIUC, 2018
