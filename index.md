@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [03/08/2022] Three papers accepted at CVPR 2022.
 * [10/25/2021] I will serve as an AC for CVPR 2022.
 * [10/01/2021] One paper accepted at ICCV 2021.
 * [03/03/2021] Four papers accepted at CVPR 2021. Two of them are selected for oral presentation.
@@ -19,6 +20,9 @@ Contact: _jianmzha AT adobe.com_
 * [02/06/2019] Received Adobe's _Tech Excellence Award_ with three amazing colleagues.
 * [01/01/2019] One paper on Layout GAN gets accepted at ICLR.
 * [01/01/2019] One paper on Mobile Composition Guidance gets accepted at CHI.
+
+## Professional Service
+* CVPR 2022, Area Chair
 
 ## Selected Publications
 
