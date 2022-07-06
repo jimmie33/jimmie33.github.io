@@ -6,6 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
+* [07/-6/2022] Three papers accepted at ECCV 2022
 * [03/08/2022] Three papers accepted at CVPR 2022. One of them is selected for oral presentation.
 * [10/25/2021] I will serve as an AC for CVPR 2022.
 * [10/01/2021] One paper accepted at ICCV 2021.
@@ -18,8 +19,6 @@ Contact: _jianmzha AT adobe.com_
 * [03/15/2019] Two papers accepted at CVPR 2019.
 * [03/15/2019] Our paper SmartEye received Best Paper Honorable Mention at CHI.
 * [02/06/2019] Received Adobe's _Tech Excellence Award_ with three amazing colleagues.
-* [01/01/2019] One paper on Layout GAN gets accepted at ICLR.
-* [01/01/2019] One paper on Mobile Composition Guidance gets accepted at CHI.
 
 ## Professional Service
 * CVPR 2022, Area Chair
@@ -47,7 +46,10 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
-* Yifan Jiang, He Zhang, __Jianming Zhang__, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang. “SSH: A Self-Supervised Framework for Image Harmonization”. In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2021.
+* Chenglin Yang, Yilin Wang, __Jianming Zhang__, He Zhang, Zijun Wei, Zhe Lin, Alan Yuille. "Lite vision transformer with enhanced self-attention". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022.
+* Soo Ye Kim, __Jianming Zhang__, Simon Niklaus, Yifei Fan, Simon Chen, Zhe Lin, Munchurl Kim. "Layered Depth Refinement with Mask Guidance". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022.
+* Juewen Peng, Zhiguo Cao, Xianrui Luo, Hao Lu, Ke Xian, __Jianming Zhang__. "BokehMe: When Neural Rendering Meets Classical Rendering". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022. (__oral__)
+* Yifan Jiang, He Zhang, __Jianming Zhang__, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang. "SSH: A Self-Supervised Framework for Image Harmonization". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2021.
 * Wei Yin, __Jianming Zhang__, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen. "Learning to Recover 3D Scene Shape from a Single Image". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral and Best Paper Candidate__)
 * Yichen Sheng, __Jianming Zhang__, Bedrich Benes. "SSN: Soft Shadow Network for Image Compositing". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
 * Qihang Yu, __Jianming Zhang__, He Zhang, Yilin Wang, Zhe Lin, Ning Xu, Yutong Bai, Alan Yuille. "Mask Guided Matting via Progressive Refinement Network". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021.
