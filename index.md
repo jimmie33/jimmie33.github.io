@@ -1,6 +1,6 @@
 ![](img/profile_250px.jpg)  
   
-I am interested in solving real world problems using computer vision and machine learning. At Adobe, I work on research and tech transfer projects related to deep learning, image processing and intelligent systems. Before joining Adobe, I studied computer vision with [Prof. Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/) at Boston University and got my PhD in 2016.  
+I am interested in solving real world problems using computer vision and machine learning. At Adobe, I work on research and tech transfer projects related to deep learning, image processing and intelligent systems. Before joining Adobe, I studied computer vision with [Prof. Stan Sclaroff](http://www.cs.bu.edu/~sclaroff/) at Boston University and got my PhD in 2016. I recevied my M.S. and B.S. degree in Math at Tsinghua University in 2008 and 2011 respectively. 
 [[CV](https://www.dropbox.com/s/bjxc0sl13x3cbc2/CV_JianmingZhang.pdf?dl=0)]  [[Google Scholar](https://scholar.google.com/citations?user=TkVHKDgAAAAJ&hl=en)]  [[LinkedIn](www.linkedin.com/in/jianming-zhang-60762227)] [[My Old Website](http://cs-people.bu.edu/jmzhang/)]  
 Contact: _jianmzha AT adobe.com_  
 
