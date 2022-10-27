@@ -46,6 +46,9 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__ and Stan Sclaroff. "Exploiting Surroundedness for Saliency Detection: A Boolean Map Approach". _IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)_, 2016. [[PDF](http://cs-people.bu.edu/jmzhang/BMS/BMS_PAMI_preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOS/SOS_supp.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/BMS/BMS.html)]
 
 ### Conferences
+* Yichen Sheng, Yifan Liu, __Jianming Zhang__, Wei Yin, A Cengiz Oztireli, He Zhang, Zhe Lin, Eli Shechtman, Bedrich Benes. "Controllable Shadow Generation Using Pixel Height Maps". In _Proc. European Conference on Computer Vision (ECCV)_, 2022.
+* Juewen Peng, __Jianming Zhang__, Xianrui Luo, Hao Lu, Ke Xian, Zhiguo Cao. "MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects". In _Proc. European Conference on Computer Vision (ECCV)_, 2022.
+* Haitian Zheng, Zhe Lin, Jingwan Lu, Scott Cohen, Eli Shechtman, Connelly Barnes, __Jianming Zhang__, Ning Xu, Sohrab Amirghodsi, Jiebo Luo. "Image Inpainting with Cascaded Modulation GAN and Object-Aware Training". In _Proc. European Conference on Computer Vision (ECCV)_, 2022.
 * Chenglin Yang, Yilin Wang, __Jianming Zhang__, He Zhang, Zijun Wei, Zhe Lin, Alan Yuille. "Lite vision transformer with enhanced self-attention". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022.
 * Soo Ye Kim, __Jianming Zhang__, Simon Niklaus, Yifei Fan, Simon Chen, Zhe Lin, Munchurl Kim. "Layered Depth Refinement with Mask Guidance". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022.
 * Juewen Peng, Zhiguo Cao, Xianrui Luo, Hao Lu, Ke Xian, __Jianming Zhang__. "BokehMe: When Neural Rendering Meets Classical Rendering". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022. (__oral__)
@@ -105,13 +108,20 @@ Contact: _jianmzha AT adobe.com_
 
 ## Tech Transfer Highlights
 
-![](https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_sswncd_2?$pjpeg$&jpegSize=100&wid=460)
-* __Sky Replacement__ in Photoshop 2021 [[Youtube](https://youtu.be/K_jWJ7Z-tKI)]. Starting as a research project years ago, we spent a lot of effort to make this technology achieve the quality level that would satifiy the picky professionals. I developed the backbone masking and compositing technologies and worked closely with the PS team to polish this feature. The final form of this feature is simple, flexible and powerful. It just shines! See what professionals say [[rephotojournal.com](https://rephotojournal.com/photoshop-sky-replacement-for-real-estate-photography/)] [[PHLEARN](https://youtu.be/ognLpUNLDwM)] [[PiXimperfect](https://youtu.be/I3dI5iHUH2U?t=35)].
+<img src="https://cdn5.digitalphotopro.com/2021/11/Depth-Blur-Phtoshop.jpg" alt="drawing" width="400"/>
+
+* __Depth Blur__ in Photoshop Neural Filter. This feature leverages our multi-year research effort in single image depth estimation.
+
+---
+
+<img src="https://cc-prod.scene7.com/is/image/CCProdAuthor/dt_sswncd_2?$pjpeg$&jpegSize=100&wid=460" alt="drawing" width="400"/>
+
+* __Sky Replacement__ in Photoshop 2021 [[Youtube](https://youtu.be/K_jWJ7Z-tKI)]. Later shipped to Lightroom. Starting as a research project years ago, we spent a lot of effort to make this technology achieve the quality level that would satifiy the picky professionals. I developed the backbone masking and compositing technologies and worked closely with the PS team to polish this feature. The final form of this feature is simple, flexible and powerful. It just shines! See what professionals say [[rephotojournal.com](https://rephotojournal.com/photoshop-sky-replacement-for-real-estate-photography/)] [[PHLEARN](https://youtu.be/ognLpUNLDwM)] [[PiXimperfect](https://youtu.be/I3dI5iHUH2U?t=35)].
 
 ---
 
 ![](img/objselection.jpg)
-* __Object Selection Tool__ in Photoshop 2020 [[Youtube](https://youtu.be/0Qm5nS2PMBs)]. After nearly three years' development, engineering and testing, we shipped this new interative selection tool. It makes the selection so intuitive and easy. See reviews from the profesionals [[PiXimperfect](https://youtu.be/ZIXM37H0mzs?t=87)] [[PTC](https://youtu.be/bgiWPuNT4PQ)] [[YES](https://youtu.be/f8_S8M6ZJt4)].
+* __Object Selection Tool__ in Photoshop 2020 [[Youtube](https://youtu.be/0Qm5nS2PMBs)]. Later shipped to Lightrrom. After nearly three years' development, engineering and testing, we shipped this new interative selection tool. It makes the selection so intuitive and easy. See reviews from the profesionals [[PiXimperfect](https://youtu.be/ZIXM37H0mzs?t=87)] [[PTC](https://youtu.be/bgiWPuNT4PQ)] [[YES](https://youtu.be/f8_S8M6ZJt4)].
 
 ---
 
