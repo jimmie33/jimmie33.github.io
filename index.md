@@ -136,6 +136,9 @@ Contact: _jianmzha AT adobe.com_
 
 
 ## Former Interns
+* Bowen Zhang, University of Adelaide, 2022
+* ByeongUk Lee, KAIST, 2022
+* Yunze Man, UIUC, 2022
 * Soo Ye Kim, Korea Advanced Institute of Science and Technology, 2021
 * Yifan Liu, Adelaide University, 2021
 * Wei Yin, Adelaide University, 2020
