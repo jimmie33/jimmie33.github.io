@@ -6,7 +6,7 @@ Contact: _jianmzha AT adobe.com_
 
 -------
 ## News
-* [03/10/2023] Seven papers accepted at CVPR 2023.
+* [03/10/2023] Seven papers accepted at CVPR 2023. Three of them are selected as highlights.
 * [07/06/2022] Three papers accepted at ECCV 2022.
 * [03/08/2022] Three papers accepted at CVPR 2022. One of them is selected for oral presentation.
 * [10/25/2021] I will serve as an AC for CVPR 2022.
