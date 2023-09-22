@@ -18,13 +18,9 @@ Contact: _jianmzha AT adobe.com_
 * [03/04/2020] Three papers accepted at CVPR 2020.
 * [07/22/2019] Three papers accepted at ICCV 2019.
 * [04/04/2019] Our code for single image shallow DoF is released [[code]](https://github.com/scott89/deeplens_eval)
-* [03/15/2019] Two papers accepted at CVPR 2019.
-* [03/15/2019] Our paper SmartEye received Best Paper Honorable Mention at CHI.
-* [02/06/2019] Received Adobe's _Tech Excellence Award_ with three amazing colleagues.
 
 ## Professional Service
-* CVPR 2022, Area Chair
-* WACV 2023, Area Chair
+* Area Chair: CVPR 2022, WACV 2023
 
 ## Selected Publications
 
