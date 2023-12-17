@@ -33,28 +33,35 @@ Contact: _jianmzha AT adobe.com_
 ### Journals & Conferences
 
 #### Image Editing
+* Yiqun Mei, He Zhang, Xuaner Zhang, __Jianming Zhang__, Zhixin Shu, Yilin Wang, Zijun Wei, Shi Yan, HyunJoon Jung, Vishal M Patel. "LightPainter: Interactive Portrait Relighting with Freehand Scribble". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023.
+* Yizhi Song, Zhifei Zhang, Zhe Lin, Scott Cohen, Brian Price, __Jianming Zhang__, Soo Ye Kim, Daniel Aliaga. "ObjectStitch: Object Compositing With Diffusion Model". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023.
+* Yu Zeng, Zhe Lin, __Jianming Zhang__, Qing Liu, John Collomosse, Jason Kuen, Vishal M Patel. "Scenecomposer: Any-level semantic image synthesis". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023. (__spotlight__)
+* Yichen Sheng, __Jianming Zhang__, Julien Philip, Yannick Hold-Geoffroy, Xin Sun, He Zhang, Lu Ling, Bedrich Benes. "PixHt-Lab: Pixel Height Based Light Effect Generation for Image Compositing". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023. (__spotlight__)
 * Yichen Sheng, Yifan Liu, __Jianming Zhang__, Wei Yin, A Cengiz Oztireli, He Zhang, Zhe Lin, Eli Shechtman, Bedrich Benes. "Controllable Shadow Generation Using Pixel Height Maps". In _Proc. European Conference on Computer Vision (ECCV)_, 2022.
 * Juewen Peng, __Jianming Zhang__, Xianrui Luo, Hao Lu, Ke Xian, Zhiguo Cao. "MPIB: An MPI-Based Bokeh Rendering Framework for Realistic Partial Occlusion Effects". In _Proc. European Conference on Computer Vision (ECCV)_, 2022.
+* Juewen Peng, Zhiguo Cao, Xianrui Luo, Hao Lu, Ke Xian, __Jianming Zhang__. "BokehMe: When Neural Rendering Meets Classical Rendering". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022. (__oral__)
+* Yichen Sheng, __Jianming Zhang__, Bedrich Benes. "SSN: Soft Shadow Network for Image Compositing". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
 * Yifan Jiang, He Zhang, __Jianming Zhang__, Yilin Wang, Zhe Lin, Kalyan Sunkavalli, Simon Chen, Sohrab Amirghodsi, Sarah Kong, Zhangyang Wang. "SSH: A Self-Supervised Framework for Image Harmonization". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2021.
+* Xihui Liu, Zhe Lin, __Jianming Zhang__, Handong Zhao, Quan Tran, Xiaogang Wang, and Hongsheng Li. "Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions". In _Proc. European Conference on Computer Vision (ECCV)_, 2020.
 * Zijun Wei, __Jianming Zhang__, Min Hoai, Xiaohui Shen, Zhe Lin, Radomir Mech and Dimitris Samaras. "Good View Hunting: Learning Photo Composition from Dense View Pairs". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2018. [[PDF](http://www.zijunwei.org/papers/cvpr18-photo-composition.pdf)] [[Project Page](http://www.zijunwei.org/VPN_CVPR2018.html)]
 * Lijun Wang, Xiaohui Shen, __Jianming Zhang__, Oliver Wang, Zhe Lin, Chih-Yao Hsieh, Sarah Kong, Huchuan Lu. "DeepLens: Shallow Depth Of Field From A Single Image". In _Proc. Siggraph Asia_, 2018. [[PDF](https://deeplensprj.github.io/deeplens/DeepLens/shallowdof.pdf)] [[Project Page](https://scott89.github.io/deeplens/DeepLens.html)] [[code]](https://github.com/scott89/deeplens_eval)
 * Wei-Chih Hung, __Jianming Zhang__, Xiaohui Shen, Zhe Lin, Joon-Young Lee,Ming-Hsuan Yang. "Learning to Blend Photos". In _Proc. European Conference on Computer Vision (ECCV)_, 2018. [[PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Wei-Chih_Hung_Learning_to_Blend_ECCV_2018_paper.pdf)] [[Project Page](https://github.com/hfslyc/LearnToBlend)]
-* Juewen Peng, Zhiguo Cao, Xianrui Luo, Hao Lu, Ke Xian, __Jianming Zhang__. "BokehMe: When Neural Rendering Meets Classical Rendering". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022. (__oral__)
-* Xihui Liu, Zhe Lin, __Jianming Zhang__, Handong Zhao, Quan Tran, Xiaogang Wang, and Hongsheng Li. "Open-Edit: Open-Domain Image Manipulation with Open-Vocabulary Instructions". In _Proc. European Conference on Computer Vision (ECCV)_, 2020.
 
 #### Structure from A Single Image
-* Wei Yin, __Jianming Zhang__, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen. "Learning to Recover 3D Scene Shape from a Single Image". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral and Best Paper Candidate__)
+* Linyi Jin, __Jianming Zhang__, Yannick Hold-Geoffroy, Oliver Wang, Kevin Blackburn-Matzen, Matthew Sticha, David F Fouhey. "Perspective Fields for Single Image Camera Calibration". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023. (__spotlight__)
+* Yiran Wang, Min Shi, Jiaqi Li, Zihao Huang, Zhiguo Cao, __Jianming Zhang__, Ke Xian, Guosheng Lin. "Neural Video Depth Stabilizer". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2023.
+* Dominique Piché-Meunier, Yannick Hold-Geoffroy, __Jianming Zhang__, Jean-François Lalonde. "Lens Parameter Estimation for Realistic Depth of Field Modeling". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2023.
 * Byeong-Uk Lee, __Jianming Zhang__, Yannick Hold-Geoffroy, In So Kweon. "Single View Scene Scale Estimation Using Scale Field". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2023.
 * Soo Ye Kim, __Jianming Zhang__, Simon Niklaus, Yifei Fan, Simon Chen, Zhe Lin, Munchurl Kim. "Layered Depth Refinement with Mask Guidance". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2022.
-* Yichen Sheng, __Jianming Zhang__, Bedrich Benes. "SSN: Soft Shadow Network for Image Compositing". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral__)
+* Wei Yin, __Jianming Zhang__, Oliver Wang, Simon Niklaus, Long Mai, Simon Chen, Chunhua Shen. "Learning to Recover 3D Scene Shape from a Single Image". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021. (__oral and Best Paper Candidate__)
 * Lijun Wang, __Jianming Zhang__, Yifan Wang, Huchuan Lu, Xiang Ruan. "CLIFFNet for Monocular Depth Estimation with Hierarchical Embedding Loss". In _Proc. European Conference on Computer Vision (ECCV)_, 2020.
 * Ke Xian, __Jianming Zhang__, Oliver Wang, Long Mai, Zhe Lin, Zhiguo Cao. "Structure-Guided Ranking Loss for Single Image Depth Prediction". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2020. [[Project Page](https://kexianhust.github.io/Structure-Guided-Ranking-Loss/)]
 * Lijun Wang, __Jianming Zhang__, Oliver Wang, Zhe Lin, Huchuan Lu. "SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2020. [[PDF](https://github.com/scott89/SDC/blob/master/pdf/main.pdf)]
 
 #### Segmentation and Masking
+* Qihang Yu, __Jianming Zhang__, He Zhang, Yilin Wang, Zhe Lin, Ning Xu, Yutong Bai, Alan Yuille. "Mask Guided Matting via Progressive Refinement Network". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021.
 * Lu Zhang, __Jianming Zhang__, Zhe Lin, Radomir Mech, Huchuan Lu, You He. "Unsupervised Video Object Segmentation with Joint Hotspot Tracking". In _Proc. European Conference on Computer Vision (ECCV)_, 2020.
 * Lu Zhang, Zhe Lin, __Jianming Zhang__, Huchuan Lu, You He. "Fast Video Object Segmentation via Dynamic Targeting Network". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2019.
-* Qihang Yu, __Jianming Zhang__, He Zhang, Yilin Wang, Zhe Lin, Ning Xu, Yutong Bai, Alan Yuille. "Mask Guided Matting via Progressive Refinement Network". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2021.
 * Lu Zhang, __Jianming Zhang__, Zhe Lin, Huchuan Lu, You He. "CapSal: Leveraging Captioning to Boost Semantics for Salient Object Detection". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2019. [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_CapSal_Leveraging_Captioning_to_Boost_Semantics_for_Salient_Object_Detection_CVPR_2019_paper.pdf)] [[Project Page](https://github.com/zhangludl/code-and-dataset-for-CapSal)]
 * Yi Zeng, Pingping Zhang, __Jianming Zhang__, Zhe Lin, Huchuan Lu. "Towards High-Resolution Salient Object Detection". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2019. [[arXiv](https://arxiv.org/pdf/1908.07274)]
 
@@ -64,7 +71,6 @@ Contact: _jianmzha AT adobe.com_
 * __Jianming Zhang__, Shugao Ma, Mehrnoosh Sameki, Stan Sclaroff, Margrit Betke, Zhe Lin, Xiaohui Shen, Brian Price and Radomír Měch.  "Salient Object Subitizing". _International Journal of Computer Vision (IJCV)_, 2017. [[Pub](https://link.springer.com/article/10.1007%2Fs11263-017-1011-0)] [[Project Page](http://cs-people.bu.edu/jmzhang/sos.html)]
 * __Jianming Zhang__, Stan Sclaroff, Zhe Lin, Xiaohui Shen, Brian Price and Radomír Měch. "Unconstrained Salient Object Detection via Proposal Subset Optimization". In _Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, 2016. (__spotlight__) [[PDF](http://cs-people.bu.edu/jmzhang/SOD/CVPR16SOD_camera_ready.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/SOD/supp_camera_ready.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/sod.html)]
 * __Jianming Zhang__, Stan Sclaroff, Zhe Lin, Xiaohui Shen, Brian Price and Radomír Měch. "Minimum Barrier Salient Object Detection at 80 FPS". In _Proc. IEEE International Conference on Computer Vision (ICCV)_, 2015. (__oral__) [[PDF](http://cs-people.bu.edu/jmzhang/fastmbd/MBS_preprint.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/fastmbd.html)]
-* __Jianming Zhang__, Liliana  Lo Presti and Stan Sclaroff, "Online Multi-Person Tracking by Tracker Hierarchy". In _Proc. IEEE Conference on Advanced Video and Signal Based Surveillance (AVSS)_, 2012. [[PDF](http://www.cs.bu.edu/groups/ivc/software/TrackerHierarchy/AVSS2012_TrackerHierarchy.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/tracker_hierarchy/Tracker_Hierarchy.htm)]
 * __Jianming Zhang__, Shugao Ma and Stan Sclaroff. "MEEM: Robust Tracking via Multiple Experts using Entropy Minimization". In _Proc. European Conference on Computer Vision (ECCV)_, 2014. [[PDF](http://cs-people.bu.edu/jmzhang/MEEM/MEEM-eccv-preprint.pdf)] [[Supp](http://cs-people.bu.edu/jmzhang/MEEM/supplementary.pdf)] [[Project Page](http://cs-people.bu.edu/jmzhang/MEEM/MEEM.html)]
 
 
@@ -85,9 +91,16 @@ Contact: _jianmzha AT adobe.com_
 
 ## Tech Transfer Highlights
 
-<img src="https://i.ytimg.com/vi/5Cp0tZjuHws/maxresdefault.jpg" alt="drawing" width="400"/>
+<img src="https://github.com/jimmie33/jimmie33.github.io/assets/1879424/dc103b3b-71d8-491e-9d3e-dead6e43aed7" alt="drawing" width="400"/>
 
-* __Depth Blur__ in Photoshop Neural Filter. This feature leverages our multi-year research effort in single image depth estimation.
+* __Adobe Firefly Image 2__. I was one of the main contributors in developing the new text2image foundation model. 
+
+---
+
+<img src="https://i.ytimg.com/vi/5Cp0tZjuHws/maxresdefault.jpg" alt="drawing" width="400"/>
+<img src="https://helpx.adobe.com/content/dam/help/en/lightroom-cc/using/whats-new/2024/whats-new-lr-ecosystem-lens-blur-max-2023.jpg.jpg.img.jpg" alt="drawing" width="400"/>
+
+* __Depth Blur__ in Photoshop 2022 Neural Filter and __Lens Blur__ in Lightroom 2023. These two features are based on our multi-year research effort in single image depth estimation.
 
 ---
 
